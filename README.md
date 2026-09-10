@@ -1,1 +1,1 @@
-# batch_create_thankyou_card_csv
+# batch create thank-you cards from name CSV file
